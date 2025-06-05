@@ -1,4 +1,3 @@
-```markdown
 # 🎙️ Voice Controlled Smart Audio Responder
 
 > Mic → RPi (NLP + ML) → Speaker  
@@ -101,4 +100,4 @@ MIT License
 ## 🤖 Made With ❤️ Using:
 - KiCad 8.0
 - Raspberry Pi 4
-```
+
