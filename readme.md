@@ -5,11 +5,11 @@
 
 ---
 
-## 📦 Project Summary
+##  Project Summary
 
 This project implements a complete voice-based query-response system using a **Raspberry Pi 4**, **stereo microphones**, **an SD card reader**, and **dual speaker output**.
 
-### 🧠 How It Works
+###  How It Works
 
 ```text
 Mic Input → PAM8403 Mic Amp → Raspberry Pi 4
@@ -41,7 +41,7 @@ git clone https://github.com/mahib1/Indian-States-Project.git ISP && cd ISP/kiCA
 
 - The Schematic file will appear as a .sch file and you can click on it to view it!
 
-## 🔌 Hardware Block Diagram
+##  Hardware Block Diagram
 
 - **ICS-43434 I²S Microphones**
   - Configured in TDM mode (Left & Right)
@@ -63,7 +63,7 @@ git clone https://github.com/mahib1/Indian-States-Project.git ISP && cd ISP/kiCA
 
 ---
 
-## ⚙️ Schematic Overview
+##  Schematic Overview
 
 Key components:
 - **J1:** Raspberry Pi header
@@ -76,7 +76,7 @@ Key components:
 
 ---
 
-## 💻 Software Requirements
+##  Software Requirements
 
 - Python 3.9+
 - `speechrecognition`
@@ -88,7 +88,7 @@ Key components:
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 1. Connect the hardware as per the schematic.
 2. Power the Pi (via USB-C or regulated GPIO).
@@ -97,19 +97,19 @@ Key components:
 
 ---
 
-## 🛠️ To-Do / Improvements
+##  To-Do / Improvements
 
 - [ ] Add proper level shifting to SD card interface
 - [ ] Use I²S audio output instead of analog 3.5mm
 
 ---
 
-## 📜 License
+##  License
 
 MIT License
 ---
 
-## 🤖 Made With ❤️ Using:
+##  Made With  Using:
 - KiCad 8.0
 - Raspberry Pi 4
 
