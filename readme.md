@@ -29,6 +29,18 @@ The system captures audio from a **dual-microphone array**, uses **speech recogn
 
 ---
 
+![Schematic Overview](./images/Schem.png)
+
+## How to view the schematic? 
+- Clone the repository using git 
+```Bash 
+git clone https://github.com/mahib1/Indian-States-Project.git ISP && cd ISP/kiCAD 
+```
+
+- After this, Just open up KiCad, select "Open an existing project", Navigate to the kiCAD Directory in the Reposirotry, and select the .pro file!
+
+- The Schematic file will appear as a .sch file and you can click on it to view it!
+
 ## 🔌 Hardware Block Diagram
 
 - **ICS-43434 I²S Microphones**
